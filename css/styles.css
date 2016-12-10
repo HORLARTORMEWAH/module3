@@ -9,7 +9,7 @@
     }
     .container>.navbar-header {
         height: 60px;
-        
+
 }
     .navbar-header .navbar-brand h1{
         color: whitesmoke;
@@ -32,6 +32,9 @@
     }
     #menu-list ul a{
         color: salmon;
+    }
+    #menu-list ul a:hover{
+        background-color: green;
     }
     #content{
         background-color: #dedef8;
