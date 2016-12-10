@@ -1,0 +1,52 @@
+    #navigation{
+        background-color: yellowgreen;
+        border-radius: 0;
+        border: 0;
+    }
+    body{
+        font-size: 16px;
+        background-color: #61122f;
+    }
+    .container>.navbar-header {
+        height: 60px;
+        
+}
+    .navbar-header .navbar-brand h1{
+        color: whitesmoke;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .navbar-header .navbar-toggle{
+        border: 2px solid #f08080;
+        clear: both;
+    }
+    .navbar-toggle .icon-bar{
+        border: 1px solid magenta;
+    }
+    .navbar-header a:hover, .navbarheader a:focus{
+        text-decoration: none;
+    }
+    #menu-list ul{
+        text-transform: uppercase;
+        
+    }
+    #menu-list ul a{
+        color: salmon;
+    }
+    #content{
+        background-color: #dedef8;
+        box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;
+        height: 1000px
+    }
+    #content h3{
+        color: orange;
+        text-transform: uppercase;
+    }
+    #content p{
+        color: violet;
+    }
+    .page-header h2{
+        color: #9370db;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
